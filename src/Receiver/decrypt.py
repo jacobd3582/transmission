@@ -1,6 +1,6 @@
 import os
 import hashlib
-import requests
+import requests 
 from cryptography.fernet import Fernet
 
 # Must be the exact same key as encrypt.py
